@@ -1,0 +1,23 @@
+{
+  "name": "Racing Legends",
+  "short_name": "Racing Legends",
+  "description": "Mobilní závodní hra Racing Legends",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "./ikona-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./ikona-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
